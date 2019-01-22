@@ -1,5 +1,5 @@
 # computase
-a machine learning algorithm that groups proteins based on their characteristics 
+an algorithm that groups proteins based on their characteristics 
 ###### Input:
 computase works by taking in proteins in a vector form and running one of the algorithms listed below.
 Each protein can be encoded as a "characteristic vector." The vector will have dimension n, with each dimension representing a pivotal component of the protein. For example, trpsin could be encoded as [15, 20, 2, 0.1, ...], where 15 could represent its location, 2 could represent a pH, etc. 
